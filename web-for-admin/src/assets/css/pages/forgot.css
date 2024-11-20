@@ -1,0 +1,79 @@
+.login-container {
+    display: flex;
+    height: 100vh;
+    align-items: center;
+    justify-content: center;
+}
+
+.login-card {
+    display: flex;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+    max-width: 900px;
+}
+
+.login-card .illustration {
+    background-color: #f0f0ff;
+    padding: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.login-card .illustration img {
+    width: 100%;
+    max-width: 400px;
+    height: auto;
+}
+
+.login-card .login-form {
+    padding: 40px;
+    flex: 1;
+}
+
+.login-card .login-form h1 {
+    font-size: 2rem;
+    margin-bottom: 10px;
+}
+.login-card .forgotPassword-form{
+    padding: 1.5rem;
+    flex: 1;
+}
+.login-card .forgotPassword-form p {
+    font-size: 1rem;
+    margin-bottom: 30px;
+    color: #666;
+}
+
+.form-control:focus {
+    border-color: #6c63ff;
+    box-shadow: none;
+}
+
+.btn-primary {
+    background-color: #6c63ff;
+    border-color: #6c63ff;
+}
+
+.btn-primary:hover {
+    background-color: #5b53e6;
+    border-color: #5b53e6;
+}
+
+.form-check-label {
+    font-size: 0.9rem;
+}
+
+.login-form h1{
+    font-weight: bolder;
+}
+.link-back a{
+    font-size: 1.5rem;
+}
+.link-back{
+    display: flex;
+    justify-content: center;
+    margin-top: 4rem;
+}

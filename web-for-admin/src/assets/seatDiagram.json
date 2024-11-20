@@ -1,0 +1,652 @@
+[
+  {
+    "row": "A",
+    "seats": [
+      {
+        "seatNumber": "A1",
+        "type": "regular"
+      },
+      {
+        "seatNumber": "A2",
+        "type": "regular"
+      },
+      {
+        "seatNumber": "A3",
+        "type": "regular"
+      },
+      {
+        "seatNumber": "A4",
+        "type": "regular"
+      },
+      {
+        "seatNumber": "A5",
+        "type": "regular"
+      },
+      {
+        "seatNumber": "A6",
+        "type": "regular"
+      },
+      {
+        "seatNumber": "A7",
+        "type": "regular"
+      },
+      {
+        "seatNumber": "A8",
+        "type": "regular"
+      },
+      {
+        "seatNumber": "A9",
+        "type": "regular"
+      },
+      {
+        "seatNumber": "A10",
+        "type": "regular"
+      },
+      {
+        "seatNumber": "A11",
+        "type": "regular"
+      },
+      {
+        "seatNumber": "A12",
+        "type": "regular"
+      },
+      {
+        "seatNumber": "A13",
+        "type": "regular"
+      },
+      {
+        "seatNumber": "A14",
+        "type": "regular"
+      },
+      {
+        "seatNumber": "A15",
+        "type": "regular"
+      }
+    ]
+  },
+  {
+    "row": "B",
+    "seats": [
+      {
+        "seatNumber": "B1",
+        "type": "regular"
+      },
+      {
+        "seatNumber": "B2",
+        "type": "regular"
+      },
+      {
+        "seatNumber": "B3",
+        "type": "regular"
+      },
+      {
+        "seatNumber": "B4",
+        "type": "regular"
+      },
+      {
+        "seatNumber": "B5",
+        "type": "regular"
+      },
+      {
+        "seatNumber": "B6",
+        "type": "regular"
+      },
+      {
+        "seatNumber": "B7",
+        "type": "regular"
+      },
+      {
+        "seatNumber": "B8",
+        "type": "regular"
+      },
+      {
+        "seatNumber": "B9",
+        "type": "regular"
+      },
+      {
+        "seatNumber": "B10",
+        "type": "regular"
+      },
+      {
+        "seatNumber": "B11",
+        "type": "regular"
+      },
+      {
+        "seatNumber": "B12",
+        "type": "regular"
+      },
+      {
+        "seatNumber": "B13",
+        "type": "regular"
+      },
+      {
+        "seatNumber": "B14",
+        "type": "regular"
+      },
+      {
+        "seatNumber": "B15",
+        "type": "regular"
+      }
+    ]
+  },
+  {
+    "row": "C",
+    "seats": [
+      {
+        "seatNumber": "C1",
+        "type": "regular"
+      },
+      {
+        "seatNumber": "C2",
+        "type": "regular"
+      },
+      {
+        "seatNumber": "C3",
+        "type": "regular"
+      },
+      {
+        "seatNumber": "C4",
+        "type": "regular"
+      },
+      {
+        "seatNumber": "C5",
+        "type": "regular"
+      },
+      {
+        "seatNumber": "C6",
+        "type": "regular"
+      },
+      {
+        "seatNumber": "C7",
+        "type": "regular"
+      },
+      {
+        "seatNumber": "C8",
+        "type": "regular"
+      },
+      {
+        "seatNumber": "C9",
+        "type": "regular"
+      },
+      {
+        "seatNumber": "C10",
+        "type": "regular"
+      },
+      {
+        "seatNumber": "C11",
+        "type": "regular"
+      },
+      {
+        "seatNumber": "C12",
+        "type": "regular"
+      },
+      {
+        "seatNumber": "C13",
+        "type": "regular"
+      },
+      {
+        "seatNumber": "C14",
+        "type": "regular"
+      },
+      {
+        "seatNumber": "C15",
+        "type": "regular"
+      }
+    ]
+  },
+  {
+    "row": "D",
+    "seats": [
+      {
+        "seatNumber": "D1",
+        "type": "regular"
+      },
+      {
+        "seatNumber": "D2",
+        "type": "regular"
+      },
+      {
+        "seatNumber": "D3",
+        "type": "regular"
+      },
+      {
+        "seatNumber": "D4",
+        "type": "regular"
+      },
+      {
+        "seatNumber": "D5",
+        "type": "regular"
+      },
+      {
+        "seatNumber": "D6",
+        "type": "regular"
+      },
+      {
+        "seatNumber": "D7",
+        "type": "regular"
+      },
+      {
+        "seatNumber": "D8",
+        "type": "regular"
+      },
+      {
+        "seatNumber": "D9",
+        "type": "regular"
+      },
+      {
+        "seatNumber": "D10",
+        "type": "regular"
+      },
+      {
+        "seatNumber": "D11",
+        "type": "regular"
+      },
+      {
+        "seatNumber": "D12",
+        "type": "regular"
+      },
+      {
+        "seatNumber": "D13",
+        "type": "regular"
+      },
+      {
+        "seatNumber": "D14",
+        "type": "regular"
+      },
+      {
+        "seatNumber": "D15",
+        "type": "regular"
+      }
+    ]
+  },
+  {
+    "row": "E",
+    "seats": [
+      {
+        "seatNumber": "E1",
+        "type": "regular"
+      },
+      {
+        "seatNumber": "E2",
+        "type": "regular"
+      },
+      {
+        "seatNumber": "E3",
+        "type": "regular"
+      },
+      {
+        "seatNumber": "E4",
+        "type": "regular"
+      },
+      {
+        "seatNumber": "E5",
+        "type": "regular"
+      },
+      {
+        "seatNumber": "E6",
+        "type": "regular"
+      },
+      {
+        "seatNumber": "E7",
+        "type": "regular"
+      },
+      {
+        "seatNumber": "E8",
+        "type": "regular"
+      },
+      {
+        "seatNumber": "E9",
+        "type": "regular"
+      },
+      {
+        "seatNumber": "E10",
+        "type": "regular"
+      },
+      {
+        "seatNumber": "E11",
+        "type": "regular"
+      },
+      {
+        "seatNumber": "E12",
+        "type": "regular"
+      },
+      {
+        "seatNumber": "E13",
+        "type": "regular"
+      },
+      {
+        "seatNumber": "E14",
+        "type": "regular"
+      },
+      {
+        "seatNumber": "E15",
+        "type": "regular"
+      }
+    ]
+  },
+  {
+    "row": "F",
+    "seats": [
+      {
+        "seatNumber": "F1",
+        "type": "regular"
+      },
+      {
+        "seatNumber": "F2",
+        "type": "regular"
+      },
+      {
+        "seatNumber": "F3",
+        "type": "vip"
+      },
+      {
+        "seatNumber": "F4",
+        "type": "vip"
+      },
+      {
+        "seatNumber": "F5",
+        "type": "vip"
+      },
+      {
+        "seatNumber": "F6",
+        "type": "vip"
+      },
+      {
+        "seatNumber": "F7",
+        "type": "vip"
+      },
+      {
+        "seatNumber": "F8",
+        "type": "regular"
+      },
+      {
+        "seatNumber": "F9",
+        "type": "vip"
+      },
+      {
+        "seatNumber": "F10",
+        "type": "regular"
+      },
+      {
+        "seatNumber": "F11",
+        "type": "regular"
+      },
+      {
+        "seatNumber": "F12",
+        "type": "regular"
+      },
+      {
+        "seatNumber": "F13",
+        "type": "regular"
+      },
+      {
+        "seatNumber": "F14",
+        "type": "regular"
+      },
+      {
+        "seatNumber": "F15",
+        "type": "regular"
+      }
+    ]
+  },
+  {
+    "row": "G",
+    "seats": [
+      {
+        "seatNumber": "G1",
+        "type": "regular"
+      },
+      {
+        "seatNumber": "G2",
+        "type": "regular"
+      },
+      {
+        "seatNumber": "G3",
+        "type": "regular"
+      },
+      {
+        "seatNumber": "G4",
+        "type": "regular"
+      },
+      {
+        "seatNumber": "G5",
+        "type": "regular"
+      },
+      {
+        "seatNumber": "G6",
+        "type": "regular"
+      },
+      {
+        "seatNumber": "G7",
+        "type": "regular"
+      },
+      {
+        "seatNumber": "G8",
+        "type": "regular"
+      },
+      {
+        "seatNumber": "G9",
+        "type": "regular"
+      },
+      {
+        "seatNumber": "G10",
+        "type": "regular"
+      },
+      {
+        "seatNumber": "G11",
+        "type": "regular"
+      },
+      {
+        "seatNumber": "G12",
+        "type": "regular"
+      },
+      {
+        "seatNumber": "G13",
+        "type": "regular"
+      },
+      {
+        "seatNumber": "G14",
+        "type": "regular"
+      },
+      {
+        "seatNumber": "G15",
+        "type": "regular"
+      }
+    ]
+  },
+  {
+    "row": "H",
+    "seats": [
+      {
+        "seatNumber": "H1",
+        "type": "regular"
+      },
+      {
+        "seatNumber": "H2",
+        "type": "regular"
+      },
+      {
+        "seatNumber": "H3",
+        "type": "regular"
+      },
+      {
+        "seatNumber": "H4",
+        "type": "regular"
+      },
+      {
+        "seatNumber": "H5",
+        "type": "regular"
+      },
+      {
+        "seatNumber": "H6",
+        "type": "regular"
+      },
+      {
+        "seatNumber": "H7",
+        "type": "regular"
+      },
+      {
+        "seatNumber": "H8",
+        "type": "regular"
+      },
+      {
+        "seatNumber": "H9",
+        "type": "regular"
+      },
+      {
+        "seatNumber": "H10",
+        "type": "regular"
+      },
+      {
+        "seatNumber": "H11",
+        "type": "regular"
+      },
+      {
+        "seatNumber": "H12",
+        "type": "regular"
+      },
+      {
+        "seatNumber": "H13",
+        "type": "regular"
+      },
+      {
+        "seatNumber": "H14",
+        "type": "regular"
+      },
+      {
+        "seatNumber": "H15",
+        "type": "regular"
+      }
+    ]
+  },
+  {
+    "row": "I",
+    "seats": [
+      {
+        "seatNumber": "I1",
+        "type": "regular"
+      },
+      {
+        "seatNumber": "I2",
+        "type": "regular"
+      },
+      {
+        "seatNumber": "I3",
+        "type": "regular"
+      },
+      {
+        "seatNumber": "I4",
+        "type": "regular"
+      },
+      {
+        "seatNumber": "I5",
+        "type": "regular"
+      },
+      {
+        "seatNumber": "I6",
+        "type": "regular"
+      },
+      {
+        "seatNumber": "I7",
+        "type": "regular"
+      },
+      {
+        "seatNumber": "I8",
+        "type": "regular"
+      },
+      {
+        "seatNumber": "I9",
+        "type": "regular"
+      },
+      {
+        "seatNumber": "I10",
+        "type": "regular"
+      },
+      {
+        "seatNumber": "I11",
+        "type": "regular"
+      },
+      {
+        "seatNumber": "I12",
+        "type": "regular"
+      },
+      {
+        "seatNumber": "I13",
+        "type": "regular"
+      },
+      {
+        "seatNumber": "I14",
+        "type": "regular"
+      },
+      {
+        "seatNumber": "I15",
+        "type": "regular"
+      }
+    ]
+  },
+  {
+    "row": "J",
+    "seats": [
+      {
+        "seatNumber": "J1",
+        "type": "regular"
+      },
+      {
+        "seatNumber": "J2",
+        "type": "couple"
+      },
+      {
+        "seatNumber": "J3",
+        "type": "couple"
+      },
+      {
+        "seatNumber": "J4",
+        "type": "couple"
+      },
+      {
+        "seatNumber": "J5",
+        "type": "couple"
+      },
+      {
+        "seatNumber": "J6",
+        "type": "couple"
+      },
+      {
+        "seatNumber": "J7",
+        "type": "couple"
+      },
+      {
+        "seatNumber": "J8",
+        "type": "couple"
+      },
+      {
+        "seatNumber": "J9",
+        "type": "couple"
+      },
+      {
+        "seatNumber": "J10",
+        "type": "couple"
+      },
+      {
+        "seatNumber": "J11",
+        "type": "couple"
+      },
+      {
+        "seatNumber": "J12",
+        "type": "couple"
+      },
+      {
+        "seatNumber": "J13",
+        "type": "couple"
+      },
+      {
+        "seatNumber": "J14",
+        "type": "couple"
+      },
+      {
+        "seatNumber": "J15",
+        "type": "couple"
+      }
+    ]
+  }
+]

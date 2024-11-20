@@ -1,0 +1,101 @@
+.otp-container {
+    display: flex;
+    height: 100vh;
+    align-items: center;
+    justify-content: center;
+}
+
+.otp-card {
+    display: flex;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+    max-width: 900px;
+}
+
+.otp-card .illustration {
+    background-color: #f0f0ff;
+    padding: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.otp-card .illustration img {
+    width: 100%;
+    max-width: 400px;
+    height: auto;
+}
+
+.otp-card .otp-form {
+    padding: 40px;
+    flex: 1;
+}
+
+.otp-card .otp-form h1 {
+    font-size: 2rem;
+    margin-bottom: 10px;
+}
+
+.otp-card .otp-form p {
+    font-size: 1rem;
+    margin-bottom: 20px;
+    color: #666;
+}
+
+.form-control:focus {
+    border-color: #6c63ff;
+    box-shadow: none;
+}
+
+.btn-primary {
+    background-color: #6c63ff;
+    border-color: #6c63ff;
+}
+
+.btn-primary:hover {
+    background-color: #5b53e6;
+    border-color: #5b53e6;
+}
+
+.otp-input {
+    width: 60px;
+    height: 60px;
+    font-size: 2rem;
+    text-align: center;
+    border: 2px solid #ddd;
+    border-radius: 10px;
+}
+
+.otp-input:focus {
+    border-color: #6c63ff;
+    outline: none;
+    box-shadow: 0 0 5px rgba(108, 99, 255, 0.5);
+}
+.otp-text-box{
+    margin-right: 1rem;
+}
+.link-back a{
+    font-size: 1.5rem;
+}
+.back-link {
+    font-size: 0.9rem;
+    color: #6c63ff;
+    
+}
+
+.back-link:hover {
+    text-decoration: underline;
+}
+.btn-custom-verify {
+    background-color: #28a745; /* Màu xanh thành công */
+    border: none;
+    color: white;
+    transition: background-color 0.3s ease;
+}
+
+.btn-custom-verify:hover {
+    background-color: #218838; /* Màu đậm hơn khi hover */
+}
+

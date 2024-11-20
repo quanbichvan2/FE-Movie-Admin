@@ -1,0 +1,47 @@
+.modal1 {
+    width: auto;
+    display: inline-block;
+    border: none;
+    box-shadow: none;
+    background: transparent;
+    padding-left: 0;
+}
+
+.movie-poster {
+    width: 100px;
+    height: auto;
+}
+
+.card-body {
+    position: relative;
+    margin: auto;
+    width: 100%;
+}
+.payment-date{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.payment-date input{
+    border: none;
+    font-size: 1.1rem;
+}
+.product-paid{
+    white-space: nowrap;
+}
+.product-paid strong{
+    margin-right: 1rem;
+}
+#orderDetailModalLabel{
+    font-size: 1.2rem;
+}
+.card{
+    border: none;
+}
+.card-header{
+    display: flex;
+    align-items: flex-start;
+}
+.paymentStatus a{
+    margin-left: 2rem;
+}
